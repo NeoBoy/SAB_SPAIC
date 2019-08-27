@@ -6,7 +6,7 @@
 ![alt text](images/logo.jpg)
 ___
 
-Google Sheet repository Link: https://docs.google.com/spreadsheets/d/1-CaV6hgl1AAufI2J2l2Uri-pH-jYB24_oEn3V4k6PFQ/edit?usp=sharing
+**Google Sheet repository** Link: https://docs.google.com/spreadsheets/d/1-CaV6hgl1AAufI2J2l2Uri-pH-jYB24_oEn3V4k6PFQ/edit?usp=sharing
 
 **#60daysofudacity DAY 1: (2019-06-27)**
 
