@@ -10,7 +10,7 @@ import subprocess
 
 
 __batch_size__ = 16
-folder_path = "//media/rishi/Ubuntu file 2/datasets/cell_images/"
+folder_path = "//datasets/cell_images/"
 
 
 #Variables that are for internal use (don't mess with this until you understand the code)
